@@ -6,7 +6,7 @@
 ## Funcionalidades
 
 - Carrosel de imagens
-- Link que levam para o assunto de interesse
+- Links que levam para o assunto de interesse
 - E galeria com imagens
 
 
