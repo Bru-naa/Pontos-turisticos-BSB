@@ -23,7 +23,6 @@ Como é o meu primeiro projeto de site, então decidi em focar em algo simples, 
 ![Página inicial](https://github.com/user-attachments/assets/8a92d0ec-f74e-4b1b-a4ef-04319d6739c1)
 ![Card com texto e botão para ir direto para a página](https://github.com/user-attachments/assets/f288b813-b842-4a95-8fa8-e05d254dadc5)
 ![Galeria](https://github.com/user-attachments/assets/11a13ddc-62b0-47ad-bf61-20b6e3dd879f)
-![](https://github.com/user-attachments/assets/8c229aa3-141f-471a-a2f9-8d3765b0aa11)
 ![Sobre mim](https://github.com/user-attachments/assets/bcce7a20-ceb3-49f2-95c7-60641bf95270)
 ![Form para contato, ainda inativo](https://github.com/user-attachments/assets/a710cf75-b324-4f65-88d1-3f0508e86bdb)
 ![Observação](https://github.com/user-attachments/assets/e80a8829-36f4-4c3a-add6-7207290d350a)
