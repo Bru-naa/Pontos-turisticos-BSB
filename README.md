@@ -13,7 +13,7 @@
 
 ## Aprendizados
 
-Como é o meu primeiro projeto de site, então decidi em focar em algo simples, na qual eu pudesse praticar e ser intigada a aprender e explorar novas ferramentas e linguagens. Graças a essa experiência consegui me familiarizar com o Boostrap, entender como funcina o front end, pensar na boa experiência ao usuário, usubilidade e intuitivdade.
+Como é o meu primeiro projeto de site, então decidi em focar em algo simples, na qual eu pudesse praticar e ser intigada a aprender e explorar novas ferramentas e linguagens. Graças a essa experiência consegui me familiarizar com o Boostrap, entender como funcina o front end, pensar na boa experiência ao usuário e intuitivdade.
 
 ## Melhorias
  Deixarei essa parte para compartilhar as melhorias do projeto, estou entusiasmada em deixá-lo mais funcional, objetivo e interessante. Uma das melhorias, é adicionar a seção de comentários e organizar para que cada página seja diferente, inclua mais imagens interiores e tenha mais curiosidades.
